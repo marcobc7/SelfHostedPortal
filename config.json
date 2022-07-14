@@ -1,0 +1,5 @@
+{
+  "environment": "runtime",
+  "managementApiUrl": "https://management.mjsonclouds.com",
+  "backendUrl": "https://<service-name>.developer.azure-api.net"
+}
